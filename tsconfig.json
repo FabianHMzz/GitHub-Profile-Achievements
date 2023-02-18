@@ -3,7 +3,6 @@
   "compilerOptions": {
     "jsx": "react-jsx",
     "jsxImportSource": "react",
-    "importsNotUsedAsValues": "error",
     "baseUrl": ".",
     "paths": {
       "@components/*": ["src/components/*"],
